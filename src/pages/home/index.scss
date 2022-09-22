@@ -1,0 +1,111 @@
+.pagina-home {
+    .container-mae{
+        height: 12  50px;
+        background-color: red;
+        align-items: center;
+        
+    }
+    
+    .faixa-principal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 40em;
+        width: 31em;
+    
+        margin-top: 7em;
+        background-color:#ffff;
+        border-radius: 16px;
+        padding: 90px 50px;
+        margin-left: 11em;
+    }
+    
+    .faixa-header {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    
+
+    
+
+    
+    
+
+    .texto-login{
+        text-align: center;
+        font-family: monospace;
+        font-size: 50px;
+        margin-bottom: -20px;
+    }
+    
+    .texto-email{
+        font-size: 4vh;
+    }
+    
+    .input-email{
+        margin-bottom: 50px;
+        width: 380px;
+        height: 40px;
+        
+    }
+    
+    .texto-senha{
+        font-size: 4vh;
+    }
+    
+    .input-senha{
+        width: 380px;
+        height: 40px;
+       
+    }
+    
+    .botoes{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    
+        margin-top: 0em;
+    }
+    
+    .botao-esqueci-senha{
+        background-color: #ffff;
+        border-bottom: #ffff;
+        border-color: #ffff;
+        color: #000000;
+    
+        font-family: Discord1;
+    
+        padding-top: 8px;
+        margin-left: 1em;
+        text-decoration: none;
+    }
+    
+    .botao-entrar{
+        text-align: center;
+    
+        font-family: Discord2;
+    
+        background-color: #EBEBEB;
+        
+        
+    
+        padding: 12px 20px;
+       
+        margin-top: 2.5em;
+        margin-left: 8em;
+        text-decoration: none;
+        color: #000000;
+    }
+    
+    .senha {
+        padding: -10px 0px ;
+    }
+
+
+
+
+
+    
+}
